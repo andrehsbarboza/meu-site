@@ -1,15 +1,14 @@
 *,* ::after, *::before {box-sizing: border-box;}
 
-/* estilos.css */
 
-/* Remove as margens brancas padrão que o navegador cria */
+
 body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
 }
 
-/* Aplica o degradê no seu Header */
+
 header {
     background: linear-gradient(to right, #00c6ff, #0072ff);
     color: white;
@@ -17,7 +16,6 @@ header {
     text-align: center;
 }
 
-/* Organiza o seu menu Nav logo abaixo do header */
 nav {
     background-color: #333;
     padding: 10px;
@@ -35,7 +33,7 @@ nav a:hover {
     text-decoration: underline;
 }
 
-/* Aplica o degradê no seu Footer */
+
 footer {
     background: linear-gradient(to right, #333333, #000000);
     color: white;
